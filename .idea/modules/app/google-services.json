@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989388567335",
+    "firebase_url": "https://tallereco-e685f.firebaseio.com",
+    "project_id": "tallereco-e685f",
+    "storage_bucket": "tallereco-e685f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989388567335:android:a2d0e5fa67f34c72eeef02",
+        "android_client_info": {
+          "package_name": "co.diana.tallereco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989388567335-gdve7jfnbun8kurcs53c4t1rnnkemts1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.diana.tallereco",
+            "certificate_hash": "e8e5983b519975147914e7509a57ba00ce279254"
+          }
+        },
+        {
+          "client_id": "989388567335-j9d83qgbucbq92e5prpvffjssaadg64b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJV96lygkDWhhxiIKipNNkudO7ZfUnX7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989388567335-j9d83qgbucbq92e5prpvffjssaadg64b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
